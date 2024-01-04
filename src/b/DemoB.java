@@ -7,5 +7,8 @@ public class DemoB {
 		
 		System.out.println("B1");
 		System.out.println("B2");
+
+		//from github
+		System.out.println("B3");
 	}
 }
